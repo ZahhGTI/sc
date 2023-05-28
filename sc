@@ -49,6 +49,17 @@ takePick = false -- Auto take pickaxe from storage
 
 
 
+
+
+pack = "Gala"
+packList = {6416, 6520, 6538, 6522, 6528, 6540, 6518, 6530, 6524, 6536, 6534, 6532, 6526}
+packName = "star_supplies"
+minimumGem = 15600
+packPrice = 15000
+packLimit = 2
+
+--[[
+
 pack = "Crime"
 packList = {2382, 2380, 2322, 2326, 2328, 2320, 2324, 2336, 2340, 2338, 2332, 2334, 2296, 2292, 2294, 2298, 2300, 2314, 2312, 2310, 2308, 2316}
 packName = "crime_wave"
@@ -56,7 +67,6 @@ minimumGem = 10600
 packPrice = 5000
 packLimit = 10
 
---[[
 
 pack = "Lens Pack"
 packList = {6760,6762,6764,6766,6768}
